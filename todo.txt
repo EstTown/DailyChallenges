@@ -1,0 +1,8 @@
+A list of problems or sub problems, on the backlog.
+
+-----------------------------------------------------------------------------
+File                            |   Todo                                    |
+-----------------------------------------------------------------------------
+XORLinkedList.py                |   fill out quite a lot of things...
+LetterMapping.py                |   implement decode function
+BTreeSerializeDeseserialize.py  |   Implement deserialize - straight forward, reading nested parentheses
